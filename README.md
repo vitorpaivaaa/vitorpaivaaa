@@ -1,11 +1,11 @@
-## 👨‍💻 Vitor Paiva 
+### 👨‍💻 Vitor Paiva 
+---
 **Desenvolvedor Full Stack**
--  Eu estou estudando ciência da computação na FIAP...
-- 🥸 Tenho conhecimento em algumas linguagem de programação como: Java,JavaScript,TypeScript,Python,HTML,CSS e C
-- 📩 Como entrar em contato comigo?: vitoorbaboosa@gmail.com
 
-##
+**Estudante de Ciência da Computação na FIAP, com formação em Tecnologia da Informação pela FIEB. Apaixonado por tecnologia e em constante aprendizado. Contato: vitoorbarboosa@gmail.com**
+---
 
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,9 +16,10 @@
   <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center"  height="30" width="40" alt="Vitor-Java" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"
 </div>
-  
-##
+<br>
+
+---
+### 📊 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpaivaaa&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpaivaaa&hide_progress=true)
-
-  
+ 
