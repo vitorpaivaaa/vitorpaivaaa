@@ -16,3 +16,6 @@
   <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center"  height="30" width="40" alt="Vitor-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-original.svg">
 </div>
+
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
