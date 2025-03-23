@@ -1,7 +1,7 @@
 ## Olá sou Vitor Paiva 👋
 
 - 👨‍💻 Eu estou estudando ciência da computação na FIAP...
-- 🥸 Tenho conhecimento em algumas linguagem de programação como: Java,JavaScript,TypeScript,Python e C
+- 🥸 Tenho conhecimento em algumas linguagem de programação como: Java,JavaScript,TypeScript,Python,HTML,CSS e C
 - 📩 Como entrar em contato comigo?: vitoorbaboosa@gmail.com
 
 ##
