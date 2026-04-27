@@ -20,3 +20,6 @@
 ---
 ### 📊 Estatísticas
 
+[![Top Languages](https://vercel.app)](https://github.com)
+
+
