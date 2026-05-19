@@ -2,7 +2,7 @@
 ---
 **Desenvolvedor Full Stack**
 
-**Estudante de Ciência da Computação na FIAP, com formação em Tecnologia da Informação pela FIEB. Apaixonado por tecnologia e em constante aprendizado. Contato: vitoorbarboosa@gmail.com**
+**Estudante de Ciência da Computação na FIAP, com formação em Tecnologia da Informação pela FIEB. Apaixonado por tecnologia e em constante aprendizado.**
 ---
 
 ### 🤖 Linguagens e Tecnologias
